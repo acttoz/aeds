@@ -1,4 +1,4 @@
-package aeds.moon.co.kr.aeds;
+package kr.co.moon.aeds.aeds;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

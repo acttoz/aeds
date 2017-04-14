@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="aeds.moon.co.kr.aeds">
+    package="kr.co.moon.aeds">
 
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -9,6 +9,10 @@
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+
+    출처: http://bitsoul.tistory.com/135 [Happy Programmer~]
 
 
     <application

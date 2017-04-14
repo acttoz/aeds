@@ -1,4 +1,4 @@
-package aeds.moon.co.kr.aeds;
+package kr.co.moon.aeds.aeds;
 
 import org.junit.Test;
 

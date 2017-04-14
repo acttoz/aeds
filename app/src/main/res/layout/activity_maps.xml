@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="aeds.moon.co.kr.aeds.MainActivity"
+    tools:context="kr.co.moon.aeds.MainActivity"
     tools:showIn="@layout/activity_main">
 
 
@@ -23,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="0px"
         android:layout_weight="1.2"
-        tools:context="aeds.moon.co.kr.aeds.MapsActivity" />
+        tools:context="kr.co.moon.aeds.MapsActivity" />
 </LinearLayout>
 
 
